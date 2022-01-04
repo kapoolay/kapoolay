@@ -1,4 +1,4 @@
-### <h1>Hi there 👋, I'm <a href="http://kevincapule.com/">Kev</a></h1>
+### <h1>Hi there 👋, I'm <a href="http://kevincapule.com/" target="_blank">Kev</a></h1>
 
 # <h3>🌱 I’m currently learning Python</h3>
 # <h3>⚡ Fun fact: I once ate a fried scorpion in Thailand</h3>
