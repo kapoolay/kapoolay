@@ -1,6 +1,6 @@
 ### <h3>Hi there 👋, I'm <a href="http://kevincapule.com/"  target="_blank">Kev</a></h3>
 
-<h5>I currently work for NTT App Security as a DAST Technical Engineer</h5>
+<h5>I currently work for <a href="https://www.whitehatsec.com/" target="_blank">NTT Application Security as a DAST Technical Engineer<a></h5>
   <h6>
   <li>🌱 I’m currently learning Python</li>
   <li>⚡ Fun fact: I once ate a fried scorpion in Thailand</li>
