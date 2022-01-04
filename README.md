@@ -1,7 +1,7 @@
-### Hi there 👋
+### <h1>Hi there 👋, I'm Kev</h1>
 
-### 🌱 I’m currently learning Python
-### ⚡ Fun fact: I once ate a fried scorpion in Thailand
+# 🌱 <h3>I’m currently learning Python</h3>
+# ⚡ <h3>Fun fact: I once ate a fried scorpion in Thailand</h3>
 
 <!--
 **kapoolay/kapoolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
