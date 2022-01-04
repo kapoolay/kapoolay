@@ -1,10 +1,10 @@
 ### <h3>Hi there 👋, I'm <a href="http://kevincapule.com/"  target="_blank">Kev</a></h3>
 
 <h5>I currently work for <a href="https://www.whitehatsec.com/" target="_blank">NTT Application Security as a DAST Technical Engineer<a></h5>
-  <h6>
+  <h5>
   🌱 I’m currently learning Python <br>
   ⚡ Fun fact: I once ate a fried scorpion in Thailand
-  </h6>
+  </h5>
 
 <!--
 **kapoolay/kapoolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
