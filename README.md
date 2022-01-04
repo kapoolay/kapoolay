@@ -1,10 +1,8 @@
 ### <h3>Hi there 👋, I'm <a href="http://kevincapule.com/"  target="_blank">Kev</a></h3>
 
 # <h5>I currently work for NTT App Security as a DAST Technical Engineer
-#  <ul>
 #   <li>🌱 I’m currently learning Python</li>
 #   <li>⚡ Fun fact: I once ate a fried scorpion in Thailand</li>
-#  </ul>
 # </h5>
 
 
