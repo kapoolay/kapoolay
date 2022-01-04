@@ -2,8 +2,8 @@
 
 <h5>I currently work for <a href="https://www.whitehatsec.com/" target="_blank">NTT Application Security as a DAST Technical Engineer<a></h5>
   <h6>
-  <li>🌱 I’m currently learning Python</li>
-  <li>⚡ Fun fact: I once ate a fried scorpion in Thailand</li>
+  🌱 I’m currently learning Python</li>
+  ⚡ Fun fact: I once ate a fried scorpion in Thailand</li>
   </h6>
 
 <!--
