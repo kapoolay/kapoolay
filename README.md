@@ -1,7 +1,11 @@
-### <h1>Hi there 👋, I'm <a href="http://kevincapule.com/" target="_blank">Kev</a></h1>
+### <h3>Hi there 👋, I'm <a href="http://kevincapule.com/"  target="_blank">Kev</a></h3>
 
-# <h3>🌱 I’m currently learning Python</h3>
-# <h3>⚡ Fun fact: I once ate a fried scorpion in Thailand</h3>
+# <p>I currently work for NTT App Security as a DAST Technical Engineer
+#  <ul>
+#   <li>🌱 I’m currently learning Python</li>
+#   <li>⚡ Fun fact: I once ate a fried scorpion in Thailand</li>
+#  </ul>
+# </p>
 
 <!--
 **kapoolay/kapoolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
