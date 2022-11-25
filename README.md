@@ -1,8 +1,8 @@
 ### <h3>Hi there 👋, I'm <a href="http://kevincapule.com/"  target="_blank">Kevin</a></h3>
 
-<h5>I currently work for <a href="https://www.whitehatsec.com/" target="_blank">NTT Application Security as a Technical Engineer<a></h5>
+<h5>I currently work for <a href="hhttps://www.smarking.com/" target="_blank">Smarking as a Data Validation Specialist<a></h5>
   <h5>
-  🌱 Currently learning Python <br>
+  🌱 Currently growing my skills in SQL <br>
   ⚡ Fun fact: I once ate a fried scorpion in Thailand
   </h5>
 
