@@ -2,7 +2,7 @@
 
 <h5>I currently work for <a href="https://www.smarking.com/company" target="_blank">Smarking<a> as a Data Validation Specialist</h5>
   <h5>
-  🌱 Currently growing my skills in SQL <br>
+  🌱 Currently growing my skills in SQL to hopefully position myself as a Data Analyst/Scientist!<br>
   ⚡ Fun fact: I once ate a fried scorpion in Thailand
   </h5>
 
