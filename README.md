@@ -1,4 +1,4 @@
-### <h3>Hi there 👋, I'm <a href="https://kapoolay.github.io/"  target="_blank">Kevin</a></h3>
+### <h3>Hi there 👋, I'm <a href="https://kapoolay.github.io/" target="_blank">Kevin</a></h3>
 
 <h5>I currently work for <a href="https://www.smarking.com/company" target="_blank">Smarking<a> as a Data Validation Specialist</h5>
   <h5>
