@@ -1,11 +1,10 @@
-### <h3>Hi there 👋, I'm <a href="https://kapoolay.github.io/" target="_blank">Kevin</a></h3>
+### Hi there 👋, I'm <a href="https://kapoolay.github.io/" target="_blank">Kevin</a>
 
-  🌱 Currently growing my skills in SQL/Python<br>
-  ⚡ Fun fact: I once ate a fried scorpion in Thailand
-  </h5>
+🌱 Currently growing my skills in SQL/Python<br>
+⚡ Fun fact: I once ate a fried scorpion in Thailand
 
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kapoolay.kapoolay)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapoolay)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kapoolay.kapoolay)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapoolay)
 
 <!--
 **kapoolay/kapoolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
