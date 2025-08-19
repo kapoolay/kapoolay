@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm <a href="https://kapoolay.github.io/" target="_blank">Kevin</a>
 
-🌱 Currently growing my skills in SQL/Python<br>
-⚡ Fun fact: I once ate a fried scorpion in Thailand
-
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=kapoolay&color=blue) -->
 
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-2F5F8F?style=flat&logo=arcgis&logoColor=white)
