@@ -13,5 +13,6 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kapoolay&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapoolay&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kapoolay&theme=dark)
