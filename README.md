@@ -4,6 +4,7 @@
 ⚡ Fun fact: I once ate a fried scorpion in Thailand
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kapoolay.kapoolay)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapoolay&show_icons=true&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapoolay)
 
 <!--
