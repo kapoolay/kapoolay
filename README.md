@@ -3,7 +3,7 @@
 🌱 Currently growing my skills in SQL/Python<br>
 ⚡ Fun fact: I once ate a fried scorpion in Thailand
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kapoolay.kapoolay)
+![Profile Views](https://komarev.com/ghpvc/?username=kapoolay&color=blue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapoolay&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapoolay&layout=compact&theme=dark)
