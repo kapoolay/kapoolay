@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm <a href="https://kapoolay.github.io/" target="_blank">Kevin</a>
-🔭 Current projects: Master's in Data Analytics (Data Engineering focus) & NFL Fantasy ETL Pipeline
+🔭 Current projects: NFL Fantasy ETL Pipeline
 
 ---
 
