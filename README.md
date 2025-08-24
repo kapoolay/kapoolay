@@ -4,7 +4,7 @@
 ---
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=kapoolay&color=blue) -->
-## Tech Stack
+## Skills
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-2F5F8F?style=flat&logo=arcgis&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-FF6B35?style=flat&logo=tableau&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
